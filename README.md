@@ -1,9 +1,9 @@
 # Clone_linktree
 <head> </head>
 
- <h4>Site clone do linktree</h4>
+ <h4>Site clone do linktree</h4> https://prantes.github.io/Clone_linktree/
  
- Visão Desktop Linktree Orginal &nbsp https://prantes.github.io/Clone_linktree/
+ Visão Desktop Linktree Orginal
  
 ![image](https://user-images.githubusercontent.com/63598185/180496557-e303c9b8-f83b-4710-8e89-7c0d7808fae4.png)
 
